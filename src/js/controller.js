@@ -8,7 +8,7 @@ import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 
 // Se instaleaza cele doua urmatoare pentru a putea rula aplicatia si in browserele mai vechi
-import 'core-js/stable'; // este pentru polyfilling toate celelalte
+// import 'core-js/stable'; // este pentru polyfilling toate celelalte
 import 'regenerator-runtime/runtime'; // este pentru polyfilling async/await
 
 // if (module.hot) {
