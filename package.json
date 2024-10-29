@@ -16,7 +16,7 @@
     "sass": "^1.26.10"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.38.1",
     "regenerator-runtime": "^0.13.7"
   }
 }
