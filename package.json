@@ -14,12 +14,12 @@
   "author": "florinfire80",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.2.1",
-    "parcel": "^2.2.1",
+    "@parcel/transformer-sass": "^2.13.0",
+    "parcel": "^2.13.0",
     "svgo": "^3.3.2"
   },
   "dependencies": {
     "core.js": "^0.4.2",
-    "fracty": "^1.0.9"
+    "fracty": "^1.0.11"
   }
 }

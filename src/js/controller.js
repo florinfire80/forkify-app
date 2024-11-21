@@ -10,8 +10,8 @@ import addRecipeView from './views/addRecipeView.js';
 // Se instaleaza cele doua urmatoare pentru a putea rula aplicatia si in browserele mai vechi
 // import '../../node_modules/core-js/stable'; // este pentru polyfilling toate celelalte
 // import '../../node_modules/core-js/actual';
-// import '../../node_modules/regenerator-runtime/runtime.js'; // este pentru polyfilling async/await
-import { async } from 'regenerator-runtime';
+import '../../node_modules/regenerator-runtime/runtime.js'; // este pentru polyfilling async/await
+// import { async } from 'regenerator-runtime';
 
 // if (module.hot) {
 //   module.hot.accept();
